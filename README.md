@@ -1,8 +1,8 @@
 # Joins
 
-Implementation of 3 Join algorithms for the databases practicum I took in fall 2014. 
+Implementation of 3 Join algorithms
 
-The algorithms I implemented are: 
+The algorithms implemented are: 
 BlockNestedLoops.cpp
 IndexNestedLoops.cpp
 TupleNestedLoops.cpp
